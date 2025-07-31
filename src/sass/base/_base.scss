@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+
+  background-image: url('../images/png/bg-mob.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    background-image: url('../images/png/bg-mob@2x.png');
+  }
+}
+
+.container {
+  margin: 0 auto;
+  padding: 0 16px;
+  max-width: 767px;
+  width: 100%;
+
+  @include tablet {
+    padding: 0 24px;
+    max-width: 1023px;
+  }
+
+  @include desktop {
+    padding: 0 32px;
+    max-width: 1200px;
+  }
+}
