@@ -1,0 +1,1 @@
+{"mappings":"","sources":["src/index.js","src/js/main.js"],"sourcesContent":["import './sass/main.scss';\r\nimport './js/main';\r\n",""],"names":[],"version":3,"file":"parsel-test-task.062dfbcb.js.map"}
