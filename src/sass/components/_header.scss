@@ -28,13 +28,14 @@
   }
 
   &__nav-item {
-    color: #585858;
+    color: $primary-text-color;
     line-height: 27px;
     font-size: 16px;
+    font-weight: 600;
 
     &--active {
-      color: #e9a923;
-      border-bottom: 1px solid #e9a923;
+      color: $accent-color;
+      border-bottom: 1px solid $accent-color;
     }
   }
 
@@ -44,7 +45,7 @@
     padding: 4px 23px;
     width: 102px;
     height: 40px;
-    background-color: #7f3a6a;
+    background-color: $main-bg-color;
     font-size: 14px;
     color: #fff;
     line-height: 150%;
