@@ -32,6 +32,14 @@
     display: block;
     margin-top: 12px;
     margin-bottom: 40px;
+
+    width: 285px;
+    height: 285px;
+
+    @include tablet {
+      width: 462px;
+      height: 461px;
+    }
   }
 
   &__content {
