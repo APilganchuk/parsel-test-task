@@ -1,11 +1,11 @@
-25311
+25471
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\randomfill133987286885751709 1
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\purgecss\node_modules\supports-color\package.json133987286865815017 0
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133987286889471760 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\images\png\about-mob@2x.png133987286117748760 0
 75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uglify-js133987286903773524 1
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-backdrop-filter.js133987286917490378 0
-57C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist133987327819895775 1
+57C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist133987339084473402 1
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\id.js133987286895505626 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-to-primitive\Makefile133987286872277731 0
 63C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\.gitignore133987327055271419 0
@@ -114,7 +114,7 @@
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\promise\try.js133987286936339982 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\runtime\helpers\esm\wrapAsyncGenerator.js133987286916911922 0
 142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-minify-selectors\node_modules\postcss-selector-parser\dist\selectors133987286900352671 1
-65C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules133987286943770375 1
+65C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules133987327824913219 1
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\chalk\index.d.ts133987286886011013 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regex-not\index.js133987286868118847 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\images\svg\facebook.svg133987286117844015 0
@@ -129,6 +129,7 @@
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\w3c-xmlserializer\lib\utils.js133987286885292936 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2015\Type.js133987286934355308 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\regions\SR.js133987286930834698 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\logo.852d748f.svg133987338224128906 0
 138C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-service-worker\node_modules\@parcel\logger\src\Logger.js133987286874711230 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\node_modules\terser\PATRONS.md133987286910179931 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\images\png\home-mob@2x.png133987286117804127 0
@@ -225,7 +226,7 @@
 71C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\js\features.js133987326169595868 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\unicode-trie\.npmignore133987286868019124 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\brfs\test\with_comments.js133987286909421952 0
-88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_animation.scss133987325654144894 0
+88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_animation.scss133987331018228918 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\purgecss\node_modules\postcss\lib\node.js133987286899764254 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uuid\lib\v35.js133987286892962424 0
 132C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-html\node_modules\@parcel\utils\test\input\config133987286916393306 1
@@ -256,6 +257,7 @@
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\static-module\test\limit-parsing.js133987286907497102 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\xorBy.js133987286934036146 0
 65C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\partials133987286117873941 1
+165C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.c9e92716.css.map133987338224138877 0
 160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133987286916323501 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTitleElement-impl.js133987286923973045 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\@parcel\fs\LICENSE133987286866253844 0
@@ -274,7 +276,7 @@
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\split-string133987286874880784 1
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\object\seal.js133987286935601957 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\isRegExp.js133987286928630596 0
-87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_services.scss133987319894531293 0
+87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_services.scss133987337101444506 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\xtend\package.json133987286864917410 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\chalk\package.json133987286882071545 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\map-cache\package.json133987286865346268 0
@@ -322,7 +324,7 @@
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-regex\test133987286884594799 1
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\stylehacks\dist\plugins\leadingUnderscore.js133987286896802159 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\General_Category\Other.js133987286921619334 0
-84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_about.scss133987319358655792 0
+84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_about.scss133987337798447526 0
 152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-tracer\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133987286912543604 0
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\stripComments.js133987286909800934 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-css\node_modules\color-name\LICENSE133987286873135438 0
@@ -352,7 +354,7 @@
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_class_private_field_destructure133987286920771608 1
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\optionator\LICENSE133987286873404721 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\msgpackr-extract133987286884923920 1
-83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_home.scss133987320082368069 0
+83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\sass\components\_home.scss133987337798447526 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\readable-stream\node_modules\string_decoder\README.md133987286876546319 0
 70C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\urix133987286881662637 1
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\send\node_modules\debug\karma.conf.js133987286881333516 0
@@ -389,7 +391,7 @@
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\permissions-api.js133987286929428458 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\package.json133987286914298920 0
 73C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js133987286897141251 1
-75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\partials\main.html133987324716053497 0
+75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\partials\main.html133987338992343148 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\HTMLHRElement-impl.js133987286923294855 0
 123C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script\Old_South_Arabian.js133987286921330117 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\semver\functions\sort.js133987286907207873 0
@@ -438,6 +440,12 @@
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\shallow-copy133987286885721794 1
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\string_decoder\lib\string_decoder.js133987286869804346 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\images\svg\linkedin.svg133987286117853994 0
+100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\send\node_modules\debug\.npmignore133987286869265780 0
+83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\neo-async\fast.js133987286906838860 0
+75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\map-visit133987286875050313 1
+113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\node_modules\posthtml-render\readme.md133987286882430588 0
+114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\src\utils\isAccessedVarChanged.js133987286920552193 0
+72C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache133987327824913219 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\core\lib\config\cache-contexts.js133987286874072933 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\quote-stream\test\unicode_separators.js133987286890568826 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\src\requests133987286919634643 1
@@ -478,11 +486,6 @@
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object-inspect\1.out133987286883238424 0
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-normalize-charset\CHANGELOG.md133987286868148768 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\src\images\svg\logo.svg133987286117853994 0
-120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Binary_Property\Emoji.js133987286915336140 0
-78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\lib133987286872058320 1
-87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\es7\global.js133987286932919134 0
-72C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@lezer133987286838873215 1
-101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\static-module\test\varmod\source.js133987286912992403 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tiny-inflate\package.json133987286877044981 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\sha.js\LICENSE133987286882640030 0
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\reflect\apply.js133987286921768937 0
@@ -580,6 +583,11 @@
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\babel-plugin-polyfill-corejs2\package.json133987286890638640 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map\source-map.js133987286877054957 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\randombytes\LICENSE133987286882650007 0
+120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Binary_Property\Emoji.js133987286915336140 0
+78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\lib133987286872058320 1
+87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\es7\global.js133987286932919134 0
+72C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@lezer133987286838873215 1
+101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\static-module\test\varmod\source.js133987286912992403 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-destructuring\README.md133987286868587604 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\regions\CY.js133987286921649258 0
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object-visit133987286875000453 1
@@ -1036,6 +1044,7 @@
 138C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-js\node_modules\@parcel\utils\test\sourcemap.test.js133987286912862754 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\dist\acorn.mjs133987286900811444 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\pinkie-promise\package.json133987286865106902 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\87\7401e9d11d17b1c3358de9a8f9cb020341e263133987338224784324 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\terser\bin133987286886140698 1
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\has-values\index.js133987286876097514 0
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\supports-color\license133987286865954639 0
@@ -1458,6 +1467,7 @@
 139C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\util\helpers.js133987286902167813 0
 122C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-cli\node_modules\supports-color\license133987286866114208 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\cross-spawn133987286881852134 1
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\f1\b17797b575d9b71cba858ebfde7aba7baecaaa133987338224867738 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script_Extensions\Cham.js133987286908235124 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\xtend\.jshintrc133987286867989198 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uglify-js\lib\minify.js133987286895844719 0
@@ -1756,6 +1766,7 @@
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-to-primitive133987286895425841 1
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\restore-cursor133987286874910690 1
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\randombytes\index.js133987286880066903 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\1c133987338224677482 1
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\micromatch\LICENSE133987286866154101 0
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-calc\node_modules\postcss-value-parser\LICENSE133987286865844929 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\escape-html133987286875209893 1
@@ -2095,6 +2106,7 @@
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\babel-runtime\helpers\createClass.js133987286913680560 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-discard-overridden133987286886509689 1
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\stream-http\ie8-polyfill.js133987286875838209 0
+141C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs133987327841654721 1
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\grapheme-breaker133987286889850755 1
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\public-encrypt\mgf.js133987286882650007 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-html\node_modules\@parcel\utils\src133987286913750378 1
@@ -2160,12 +2172,12 @@
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-js\node_modules\chalk\readme.md133987286884026322 0
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-calc133987286892264299 1
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\has-values133987286875150053 1
+75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hash-base133987286875160025 1
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\node-forge\dist\prime.worker.min.js.map133987286913341474 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\resolve\test\node_path\x\ccc\index.js133987286906938598 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-if.js133987286919385309 0
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\split-string\node_modules\extend-shallow\index.js133987286876496460 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\verror\lib\verror.js133987286885711826 0
-75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hash-base133987286875160025 1
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\typed\int16-array.js133987286934155819 0
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties133987286923484352 1
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hex-color-regex133987286889840774 1
@@ -2207,7 +2219,7 @@
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uncss\node_modules\is-absolute-url\index.d.ts133987286880505728 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\safe-regex133987286884146004 1
 122C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\side-channel\node_modules\object-inspect\readme.markdown133987286902357305 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\linkedin.b1d8311f.svg133987316255344350 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\linkedin.b1d8311f.svg133987331131650229 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlparser2133987286874451917 1
 69C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\use133987286874820946 1
 98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2015\HourFromTime.js133987286923065483 0
@@ -2283,6 +2295,7 @@
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\internal-slot133987286890858059 1
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_throw133987286922526913 1
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-accessor-descriptor133987286875130106 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\78133987327851110569 1
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\json5\dist\index.js133987286882719813 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-arrayish133987286885791601 1
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\ansi-styles\index.d.ts133987286881503072 0
@@ -2543,9 +2556,6 @@
 139C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\node-addon-api\tools\clang-format.js133987286894807497 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\src\glob.js133987286900931121 0
 74C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\make-dir133987286878550967 1
-100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\send\node_modules\debug\.npmignore133987286869265780 0
-83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\neo-async\fast.js133987286906838860 0
-75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\map-visit133987286875050313 1
 72C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\pbkdf2133987286890828139 1
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\namespaces.js133987286896722376 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\overArgs.js133987286930346016 0
@@ -2561,6 +2571,7 @@
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\micromatch133987286883248403 1
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\snapdragon-node\LICENSE133987286873334903 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\src\.babelrc133987286916931872 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about-mob.7ba53401.png133987338224108956 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\symbol\key-for.js133987286934534809 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\verror\node_modules\core-util-is\float.patch133987286881333516 0
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\node_modules\.bin\esgenerate.cmd133987286937686381 0
@@ -2715,6 +2726,7 @@
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\unicode-trie\node_modules\pako\lib\utils\common.js133987286898567440 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\path-parse133987286874960558 1
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\utility-types\LICENSE133987286864937361 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\78\e96af29611daaf5f12fa3fe6ee3f1cb8c72001133987338224734451 0
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script\Palmyrene.js133987286921669204 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\performance-now133987286890818158 1
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hash-base\README.md133987286876097514 0
@@ -3065,10 +3077,10 @@
 138C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\declaration.js133987286897460408 0
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map-js133987286894996985 1
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hsl-regex\test\test.js133987286886529631 0
-84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map-resolve133987286886489733 1
-98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-declaration-sorter\readme.md133987286876207232 0
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js-compat\node_modules\.bin\semver.ps1133987286937616566 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uri-js\dist\esnext\schemes\https.js.map133987286899125946 0
+84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map-resolve133987286886489733 1
+98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-declaration-sorter\readme.md133987286876207232 0
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\ansi-styles\index.d.ts133987286881642690 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map-support133987286885751709 1
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\resolve\appveyor.yml133987286915755014 0
@@ -3155,6 +3167,7 @@
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-include\node_modules\dom-serializer133987286884734430 1
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\generated\XMLHttpRequestEventTarget.js133987286921719069 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\thru.js133987286932550109 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\88133987327851020447 1
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\test\fixtures\invalid-engines133987286920173211 1
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\plugin\LICENSE133987286865665413 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\supports-preserve-symlinks-flag133987286889481738 1
@@ -3419,6 +3432,7 @@
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\map-cache\README.md133987286868238531 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\repeat-string\LICENSE133987286871988512 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\js-yaml\lib\js-yaml\type\js133987286904760885 1
+168C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\fsmonitor-watchman.sample133987327825072787 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\querystring-es3\History.md133987286883208503 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\xmlchars\README.md133987286894119338 0
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es7.object.lookup-setter.js133987286930884569 0
@@ -3586,6 +3600,7 @@
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\fp\forInRight.js133987286926446777 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\nanomatch\README.md133987286882211182 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\word-wrap\README.md133987286867999171 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-rebase.sample133987327825092742 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-syntax-jsx133987286876416672 1
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\plant.js133987286930834698 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\command-exists\README.md133987286889890640 0
@@ -3935,6 +3950,7 @@
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\static-eval\node_modules\.bin\esgenerate.cmd133987286937696351 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\elliptic\lib\elliptic\precomputed133987286893351385 1
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\babel-plugin-polyfill-corejs3\core-js-compat\README.md133987286873514427 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\7d\b40a8145b9605411fbe9d76504d9b5ae71ad10133987338224827566 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\traverse\traverse.js133987286913301576 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\esm\_class_name_tdz_error.js133987286916672563 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\node_modules\posthtml133987286885123388 1
@@ -3954,6 +3970,7 @@
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\aws4\LICENSE133987286865615544 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uuid\package.json133987286894967071 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\set-value\index.js133987286868068981 0
+170C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs\remotes\origin\gh-pages133987338240269291 0
 98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posix-character-classes\index.js133987286875947920 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\uniqueId.js133987286933627230 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parse5\lib\extensions\position-tracking133987286896522908 1
@@ -4167,6 +4184,7 @@
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\svgo\lib\svgo\plugins.js133987286904022861 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\snapdragon\node_modules\is-descriptor\README.md133987286869265780 0
 98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\array\virtual\keys.js133987286934564739 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\f3133987327851060370 1
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\merge-source-map\README.md133987286868238531 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\uri-js\node_modules133987286839092627 1
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\typedarray\LICENSE133987286868029092 0
@@ -5171,6 +5189,7 @@
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-commonjs\LICENSE133987286865715276 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\General_Category\Enclosing_Mark.js133987286915405959 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tr46\package.json133987286864967274 0
+141C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\HEAD133987338223311096 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tr46\README.md133987286868029092 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tr46\node_modules\punycode\package.json133987286865785089 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tr46\node_modules\punycode\punycode.es6.js133987286874072933 0
@@ -5221,10 +5240,12 @@
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\brfs\index.js133987286872387438 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tough-cookie\lib\memstore.js133987286882620075 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsbn\example.html133987286885791601 0
+148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\packed-refs133987327841605796 0
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\stealthy-require\lib\index.js133987286880974475 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\svgo\plugins\removeComments.js133987286906240455 0
 139C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\generateCertificate.js133987286898866638 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\stream-http\.airtap.yml133987286868049040 0
+87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.99806474.css133987338211630880 0
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\tough-cookie\lib\pathMatch.js133987286884854112 0
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script\Tai_Le.js133987286922636620 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\terser\dist\bundle.min.js133987286907816260 0
@@ -5400,7 +5421,7 @@
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\watcher\index.d.ts133987286907497102 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133987286903613952 0
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\glob\LICENSE133987286865475913 0
-80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob@2x.07bf9482.png133987316255613609 0
+80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob@2x.07bf9482.png133987331132796739 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\term-size\index.js133987286885352773 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\_shared.js133987286920322818 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\static-module\test\inline\fn.js133987286906709199 0
@@ -5576,6 +5597,7 @@
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\supports-preserve-symlinks-flag\.eslintrc133987286864977252 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\sshpk\lib\formats\ssh.js133987286902566748 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\fp\values.js133987286933836677 0
+81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages133987327825033160 1
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\domhandler\lib\node.js133987286885442528 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\supports-preserve-symlinks-flag\.github133987286890060188 1
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\string.prototype.trimend\polyfill.js133987286890997678 0
@@ -6525,6 +6547,7 @@
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\source-map\dist\source-map.min.js.map133987286902277518 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-discard-empty\README.md133987286875947920 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\modules\es6.math.imul.js133987286926975018 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\d6\9b0b228f47aa0adb3f62871d4289f35ea93337133987338224827566 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\fs\src\OverlayFS.js133987286892204452 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\profiler\build-ts.js133987286868557679 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\pbkdf2\lib\precondition.js133987286883238424 0
@@ -6714,6 +6737,7 @@
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js133987286891695822 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\xhr133987286925688464 1
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script\Greek.js133987286916592779 0
+157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about-mob@2x.9f7ea877.png133987338224118938 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\mime-db\LICENSE133987286865156770 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\simple-swizzle\index.js133987286875858158 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\resolve\bin133987286882650007 1
@@ -7405,6 +7429,7 @@
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\has-tostringtag\package.json133987286889850755 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\rimraf\package.json133987286875878102 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\rimraf\rimraf.js133987286871978536 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\89\ac053a88a3fd7ebe45a228279ae403855aae25133987338225964542 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\_hashSet.js133987286919953789 0
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\node_modules\posthtml\lib\index.js133987286874122799 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\ol-reversed.js133987286929169150 0
@@ -7875,6 +7900,7 @@
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regex-not\node_modules\extend-shallow\index.js133987286876546319 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\markdown-ansi\node_modules\color-convert\conversions.js133987286874322263 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\has-symbols\.eslintignore133987286865465942 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home.2b107eef.png133987338224158825 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\attributes133987286902806109 1
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-tree\lib\syntax\node\StyleSheet.js133987286916672563 0
 151C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133987286897749631 0
@@ -7947,6 +7973,7 @@
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\pako\lib\zlib\constants.js133987286883238424 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\unhandledrejection.js133987286931742282 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\brfs\test\multi_var.js133987286907536984 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\text-mob.0cdb4423.svg133987338224138877 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerator-transform\src\visit.js133987286896532881 0
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-json\node_modules\json5\LICENSE.md133987286893620668 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\ordered-binary\README.md133987286892054859 0
@@ -8062,6 +8089,7 @@
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_define_property133987286921489686 1
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script_Extensions\Georgian.js133987286915814861 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\fs-extra\lib\mkdirs\win32.js133987286901589363 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.c9e92716.css133987338224138877 0
 156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133987286912563550 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\q\README.md133987286869824291 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\purgecss\node_modules\postcss\docs\syntax.md133987286908494431 0
@@ -8188,6 +8216,7 @@
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\_is-regexp.js133987286915804895 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\generator\node_modules\source-map\dist\source-map.min.js133987286893840083 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script_Extensions\Tagbanwa.js133987286922596724 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\c2\430d772ccf4f9685a0b184e51e35b89dae04c1133987327852902481 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-modules-values\node_modules\postcss\README.md133987286885951170 0
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\codeframe\node_modules\chalk\package.json133987286882071545 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\Script_Extensions\Tai_Viet.js133987286922676567 0
@@ -8510,6 +8539,7 @@
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\cssstyle\lib\properties\borderTop.js133987286904551439 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\General_Category\Surrogate.js133987286922477045 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2017\IsCompatiblePropertyDescriptor.js133987286923943130 0
+200C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\pack\pack-d9ee0d45f27058d29be42d0ec829da1cff9e7ca1.pack133987338224358297 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\node_modules\.bin\acorn.cmd133987286937646483 0
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\watcher\src\Signal.hh133987286903883232 0
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\regenerate-unicode-properties\General_Category\Unassigned.js133987286923085419 0
@@ -8790,6 +8820,7 @@
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer\test\write.js133987286904601316 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-dev-server\src\templates\500.html133987286878112130 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\purgecss\node_modules\postcss\docs\guidelines\plugin.md133987286907796307 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\86\04b1a4a65350f4ac5540038eedd4de5f3b89f0133987327852835496 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\dotenv-expand\lib\main.d.ts133987286887058221 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\fp\takeLastWhile.js133987286932340680 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\purgecss\node_modules\postcss\docs\guidelines\runner.md133987286908135390 0
@@ -8822,6 +8853,7 @@
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\public-encrypt\.travis.yml133987286868128829 0
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-include\node_modules\htmlparser2\lib\WritableStream.d.ts.map133987286895196458 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\public-encrypt\LICENSE133987286880066903 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\7e\d9afce3f049864c0462add0d83c4adaaa313f5133987338225884757 0
 123C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\csso\node_modules\css-tree\lib\syntax\node\Parentheses.js133987286915356092 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\public-encrypt\test133987286901679119 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_class_private_method_set133987286921070811 1
@@ -9140,6 +9172,7 @@
 144C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-expressions\node_modules\posthtml-parser\.github\workflows\nodejs.yml133987286897969044 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\set\from.js133987286932380579 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-expressions\node_modules\htmlparser2\lib\Parser.d.ts133987286895326109 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\09133987338224547785 1
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\runtime\helpers\esm\jsx.js133987286915076837 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-expressions\node_modules\htmlparser2\lib\Tokenizer.d.ts133987286896133948 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\watcher\src\kqueue\KqueueBackend.hh133987286903394533 0
@@ -9215,7 +9248,7 @@
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-expressions\node_modules\domelementtype\lib\index.d.ts.map133987286877683280 0
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-html\node_modules\chalk\source\templates.js133987286874262426 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-normalize-url\dist133987286880106799 1
-75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\logo.852d748f.svg133987316254343359 0
+75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\logo.852d748f.svg133987331131650229 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml-expressions\node_modules\domelementtype\lib\index.js133987286870033731 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\README.markdown133987286918557531 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\string\virtual\small.js133987286935871232 0
@@ -9266,7 +9299,6 @@
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2015\IteratorClose.js133987286926925163 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss\node_modules\picocolors133987286884355435 1
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\node_modules\posthtml-render\changelog.md133987286878211874 0
-113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\node_modules\posthtml-render\readme.md133987286882430588 0
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2016\ToInteger.js133987286933607286 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\regions\UZ.js133987286931911822 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\posthtml\node_modules\posthtml-render\dist\index.d.ts133987286884365413 0
@@ -10293,6 +10325,7 @@
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash.memoize\LICENSE133987286872148080 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\postcss-calc\node_modules\postcss-value-parser\lib\parse.js133987286874132770 0
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\fast-glob\out\providers\reader-sync.js133987286901220350 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\post-update.sample133987327825072787 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\chalk\license133987286866154101 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-tree\lib\syntax\node\MediaFeature.js133987286914049574 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\modules\es7.system.global.js133987286931562754 0
@@ -10563,6 +10596,7 @@
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-postcss\node_modules\chalk\package.json133987286882041626 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parseurl\README.md133987286880126743 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.set.js133987286929328724 0
+136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git133987338226034361 1
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\workers\lib133987286907906003 1
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\cssstyle\README.md133987286882789626 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parse5\lib133987286902885905 1
@@ -10690,7 +10724,6 @@
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133987286928002273 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\neo-async\foldr.js133987286908165316 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\src\utils\getExisting.js133987286920412563 0
-114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\src\utils\isAccessedVarChanged.js133987286920552193 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\nice-try\README.md133987286875997786 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-new-target\README.md133987286868587604 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\src\utils\lineCounter.js133987286920592086 0
@@ -10936,7 +10969,7 @@
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\lib\transforms\babel\flow.js133987286914109425 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\deasync\bin\darwin-x64-node-4\deasync.node133987286903424467 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\lib\scope-hoisting\hoist.js133987286912074856 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home-mob.c8ac336d.png133987316254343359 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home-mob.c8ac336d.png133987331131650229 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-tracer\node_modules\@parcel\utils\lib\index.js133987286908484454 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel-bundler\lib\scope-hoisting\mangler.js133987286912254373 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-cascade-layers.js133987286917839440 0
@@ -11019,6 +11052,7 @@
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\package.json133987286886200505 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-tree\lib\syntax\scope\atrulePrelude.js133987286888723763 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\src\.eslintrc.json133987286884574855 0
+164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\applypatch-msg.sample133987327825062820 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\src\bin.js133987286874421998 0
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\@parcel\workers\lib\web\WebChild.js133987286906798967 0
 141C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133987286884744401 0
@@ -11183,6 +11217,7 @@
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\workers\package.json133987286908414642 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\workers\test133987286908225152 1
 122C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\utils\test\sourcemap.test.js133987286912862754 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\06133987327851228696 1
 115C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\babel-runtime\helpers\interop-require-wildcard.js133987286899853999 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-svg\src\SVGTransformer.js133987286874491809 0
 123C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\workers\test\cpuCount.test.js133987286896453093 0
@@ -11199,6 +11234,7 @@
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\global.js133987286933068723 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer\bin\update-authors.sh133987286906769045 0
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js133987286899883921 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home-mob@2x.97a1689d.png133987338224128906 0
 149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\objectHash.js133987286909541628 0
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\parcel\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133987286900262911 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\string\trim-left.js133987286936250227 0
@@ -11480,6 +11516,7 @@
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\async\mapLimit.js133987286912892672 0
 169C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133987286903903172 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\sample.js133987286931562754 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\f3\0b9a98b001637d643dc15fd044675ba65a0151133987327851030420 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\ordered-binary\LICENSE133987286865126851 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\array-find.js133987286902756239 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\ordered-binary\rollup.config.js133987286881752401 0
@@ -11628,6 +11665,7 @@
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object.assign\.github\workflows\rebase.yml133987286898796826 0
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-regenerator\LICENSE133987286865705308 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object-visit\index.js133987286875987812 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\update.sample133987327825112681 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object-visit\LICENSE133987286872118158 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\object-visit\package.json133987286865126851 0
 132C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-postcss\node_modules\supports-color\browser.js133987286869495175 0
@@ -12529,6 +12567,7 @@
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\object\assign.js133987286922088094 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\intersectionWith.js133987286927673157 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\fp\unzipWith.js133987286933687071 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\09\b23dee75c26dcbdcd6002819a4f480f0b996f7133987338224498092 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-js\node_modules\@parcel\utils\test\throttle.test.js133987286913570852 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_class_apply_descriptor_set133987286920522274 1
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\.bin\acorn133987286937616566 0
@@ -12655,6 +12694,7 @@
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\fp\reverse.js133987286931522862 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\random.js133987286931064091 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\rearg.js133987286931163827 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\info133987327825192472 1
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lmdb\node_modules\node-addon-api\common.gypi133987286871449948 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\reduce.js133987286931183772 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\regions\LC.js133987286927044837 0
@@ -12709,6 +12749,7 @@
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\sshpk-sign.ps1133987286937666430 0
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\src\escape-html.js133987286897998962 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\throttle.js133987286932520196 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\ae133987327851739950 1
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\runtime\helpers\isNativeFunction.js133987286917610053 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\toIterator.js133987286932629895 0
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\xor.js133987286934016197 0
@@ -12955,6 +12996,7 @@
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\_getValue.js133987286919654588 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\modules\core.object.is-object.js133987286923444460 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\gensync\index.js133987286877194586 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home.1c779420.png133987338224128906 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-css\node_modules\has-flag\readme.md133987286880695225 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\node-filter.js133987286922556835 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lodash\_getView.js133987286919704734 0
@@ -13411,6 +13453,7 @@
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\reporter-cli\node_modules\@parcel\utils\src\prettyDiagnostic.js133987286910519015 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lmdb\dependencies\lmdb133987286877244453 1
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\Document-impl.js133987286922686492 0
+168C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\prepare-commit-msg.sample133987327825102708 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lmdb\dependencies\lmdb-data-v1133987286865376182 1
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\lmdb\dependencies\v8133987286916772301 1
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\workers\lib\core-worker.js133987286893600722 0
@@ -13503,6 +13546,7 @@
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsprim\lib\jsprim.js133987286870283081 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsonfile\LICENSE133987286872168030 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsonfile\package.json133987286865356240 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.ec78d767.js133987338224138877 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsonfile\README.md133987286868258475 0
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\math\rad-per-deg.js133987286935432414 0
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\json5\dist133987286881084187 1
@@ -13673,6 +13717,7 @@
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTableSectionElement-impl.js133987286923913210 0
 122C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTextAreaElement-impl.js133987286923943130 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\node_modules\domelementtype\LICENSE133987286865884824 0
+199C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\pack\pack-d9ee0d45f27058d29be42d0ec829da1cff9e7ca1.rev133987327841256234 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\assert-plus\package.json133987286865615544 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-js\node_modules\regenerator-runtime\path.js133987286869505143 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\jsdom\lib\jsdom\living\nodes\HTMLTimeElement-impl.js133987286923963077 0
@@ -14074,6 +14119,7 @@
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\esutils\README.md133987286872277731 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-wsl\index.js133987286868268447 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-wsl\license133987286872177998 0
+158C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-push.sample133987327825092742 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-windows\README.md133987286876067605 0
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-shared-array-buffer\package.json133987286884933893 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\cssstyle\lib\properties\paddingTop.js133987286912084828 0
@@ -14257,6 +14303,7 @@
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-svg\node_modules\@parcel\utils\src\dependency-location.js133987286897460408 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-extendable\README.md133987286868278425 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\path2d.js133987286929368622 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\logo-mob.f902ff67.svg133987338224128906 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-directory\index.js133987286876097514 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-directory\package.json133987286865436025 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\is-directory\README.md133987286868288394 0
@@ -14542,7 +14589,7 @@
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlparser2\node_modules\readable-stream\README.md133987286900352671 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlparser2\node_modules\readable-stream\lib\internal133987286886380025 1
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\detect-libc\bin133987286881153997 1
-78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home@2x.a2f19d40.png133987316255613609 0
+78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home@2x.a2f19d40.png133987331132410878 0
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_duplex.js133987286870073628 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2017\ToPropertyKey.js133987286934016197 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlparser2\node_modules\readable-stream\lib\_stream_passthrough.js133987286874132770 0
@@ -14796,6 +14843,7 @@
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\lib\htmlnano.js133987286890608718 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\array\virtual\for-each.js133987286932250913 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\lib\presets133987286900512244 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\b3133987327851557653 1
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\lib\presets\ampSafe.js133987286870293040 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\htmlnano\lib\presets\max.js133987286892274265 0
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2020\BigInt\subtract.js133987286931881905 0
@@ -14829,6 +14877,7 @@
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\esm\_initializer_warning_helper.js133987286918158595 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\html-encoding-sniffer\package.json133987286865455968 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\html-encoding-sniffer\README.md133987286872217896 0
+142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\index133987338225924651 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hsla-regex\.editorconfig133987286880246428 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2021\SecFromTime.js133987286930854647 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\hsla-regex\.npmignore133987286868298369 0
@@ -15036,6 +15085,7 @@
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\package.json133987286902626592 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\lib\handlebars\helpers.js133987286914408622 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\lib\handlebars\internal133987286918467765 1
+146C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs133987327871224793 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\lib\handlebars\no-conflict.js133987286916104087 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\lib\handlebars\runtime.js133987286917679881 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\handlebars\lib\handlebars\safe-string.js133987286917859404 0
@@ -15512,6 +15562,7 @@
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\fast-glob\out\providers\reader.d.ts133987286901639230 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\fast-glob\out\providers\filters\deep.js133987286897590055 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\regions\PY.js133987286929907184 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\89133987338226004435 1
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\fast-glob\out\managers\tasks.d.ts133987286895465731 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\des.js\README.md133987286895016934 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-svg\src133987286873953256 1
@@ -15869,7 +15920,7 @@
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\modules\es6.function.bind.js133987286926386588 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\5\MakeDay.js133987286928241634 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\5\MakeTime.js133987286928311449 0
-90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.31b563d9.js.map133987326170626317 0
+90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.31b563d9.js.map133987331132826909 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\css-modules-loader-core\node_modules\strip-ansi\license133987286872736503 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\5\MinFromTime.js133987286928381266 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\5\MonthFromTime.js133987286928570747 0
@@ -16019,6 +16070,7 @@
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2021\thisTimeValue.js133987286932410493 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\fn\set133987286935123227 1
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\coa\lib\index.js133987286893191811 0
+166C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-merge-commit.sample133987327825082760 0
 123C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\runtime\helpers\esm\classStaticPrivateMethodGet.js133987286912214490 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js-compat\get-modules-list-for-target-version.js133987286872327595 0
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\@parcel\utils\test\DefaultMap.test.js133987286896313464 0
@@ -16453,6 +16505,7 @@
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\modules\es7.object.entries.js133987286930784830 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\fn\object\get-own-property-symbols.js133987286932749579 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2018\modulo.js133987286928451070 0
+91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.99806474.css.map133987338211820134 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2017\CreateMethodProperty.js133987286919126023 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\deasync\bin\win32-ia32-node-0.11\deasync.node133987286913630692 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\es-abstract\2018\MonthFromTime.js133987286928510912 0
@@ -17895,9 +17948,10 @@
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.object.is-frozen.js133987286928211717 0
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.object.set-prototype-of.js133987286928351341 0
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.reflect.construct.js133987286928490973 0
-83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about-mob@2x.9f7ea877.png133987316254343359 0
+83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about-mob@2x.9f7ea877.png133987331131650229 0
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.reflect.delete-property.js133987286928550805 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.reflect.get.js133987286928640563 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\93133987327851288849 1
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-css\node_modules\@parcel\utils\test\config.test.js133987286893610701 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.reflect.own-keys.js133987286928989642 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\modules\es6.reflect.set.js133987286929059459 0
@@ -18068,7 +18122,7 @@
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\ansi-styles\readme.md133987286876735812 0
 92C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\stage\4.js133987286921569471 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\brfs\test\require_resolve\node_modules\aaa\wow.txt133987286908913308 0
-77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob.35f885e4.png133987316255613609 0
+77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob.35f885e4.png133987331132786777 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\commondir\index.js133987286872337571 0
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\core-js\library\stage\pre.js133987286935352632 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\dommatrix.js133987286922257644 0
@@ -19148,6 +19202,7 @@
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-initial-letter.js133987286919534916 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-logical-props.js133987286919694486 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-media-range-syntax.js133987286919893949 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\a2133987327851467294 1
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-media-resolution.js133987286919964015 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\test\input\config133987286916403281 1
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\css-mixblendmode.js133987286920063496 0
@@ -19310,6 +19365,7 @@
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\shadowdom.js133987286930595340 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133987286930635244 0
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\sharedworkers.js133987286930645208 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about@2x.e421f0b6.png133987338224158825 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\srcset.js133987286930844671 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\svg-filters.js133987286931004260 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\svg-fragment.js133987286931024191 0
@@ -19371,6 +19427,7 @@
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\wordwrap.js133987286932709687 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-lite\data\features\xhtmlsmil.js133987286932829366 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-api\CHANGELOG.md133987286868447972 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.99806474.css133987338224128906 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-api\dist133987286882819550 1
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-api\dist\index.js133987286881193899 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\caniuse-api\dist\utils.js133987286883826854 0
@@ -19403,6 +19460,7 @@
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer-from\LICENSE133987286865585624 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer-from\package.json133987286872377465 0
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer-from\readme.md133987286876257095 0
+157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services-mob.c425b5b5.png133987338224138877 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer-equal\example133987286880406004 1
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\buffer-equal\index.js133987286868457945 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\brfs\test\files\buffer.js133987286900502270 0
@@ -19542,6 +19600,7 @@
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\color-convert\conversions.js133987286874232506 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1\lib\ber\errors.js133987286874491809 0
 88C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\bcrypt-pbkdf\README.md133987286868477898 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\bg-mob@2x.8c6fdd1d.png133987338224198717 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\helper-module-transforms\README.md133987286869225888 0
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\base64-js\index.js133987286872397412 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\base-x\LICENSE.md133987286873544343 0
@@ -19863,6 +19922,7 @@
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\assert\node_modules\inherits\test.js133987286882979123 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js\.eslintrc.js133987286868487865 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js\LICENSE133987286865615544 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\text-desk.cfc9e9f3.svg133987338224138877 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js\node_modules133987286839062710 1
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js\package.json133987286896712410 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\asn1.js\node_modules\bn.js\lib133987286869465249 1
@@ -20080,6 +20140,7 @@
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\LICENSE133987286870103543 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\package.json133987286886759010 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\README.md133987286899285520 0
+131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git133987338224108956 1
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\dist\acorn.d.ts133987286901250274 0
 117C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\acorn\dist\acorn.mjs.map133987286898268237 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\acorn-globals\node_modules\.bin\acorn.cmd133987286937616566 0
@@ -20277,6 +20338,7 @@
 109C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_async_iterator\package.json133987286920262963 0
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_async_generator\package.json133987286920223071 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_assert_this_initialized\package.json133987286920163240 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\36\4e635e1955544d0ed387754af308ae2b2cd517133987338224607630 0
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\bundler-default\node_modules\@parcel\logger\lib\Logger.js133987286870203277 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_array_with_holes\package.json133987286920093421 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\_\_array_like_to_array\package.json133987286920063496 0
@@ -20477,6 +20539,7 @@
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\cjs\_ts_add_disposable_resource.cjs133987286913989742 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\cjs\_ts_decorate.cjs133987286914109425 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\cjs\_ts_dispose_resources.cjs133987286914259013 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\c2133987327852948976 1
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\cjs\_ts_generator.cjs133987286914368722 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\src\is-url.js133987286909122750 0
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@swc\helpers\cjs\_ts_metadata.cjs133987286914428562 0
@@ -20506,6 +20569,7 @@
 78C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core133987286920671877 1
 84C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\diagnostic133987286884305570 1
 87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\error-overlay133987286902516883 1
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\commit-msg.sample133987327825062820 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\events133987286893570796 1
 76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\fs133987286874531704 1
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\graph133987286899385253 1
@@ -20734,6 +20798,7 @@
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\utils\src\getExisting.js133987286899674479 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-js\node_modules\semver\functions\valid.js133987286907706534 0
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\utils\src\getRootDir.js133987286900542159 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\47\570e9605c130f183215a081312c64de4cb55bb133987338224744422 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\utils\src\hash.js133987286901330054 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\utils\src\http-server.js133987286901719017 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\types\node_modules\@parcel\utils\src\openInBrowser.js133987286909810907 0
@@ -20858,7 +20923,7 @@
 145C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\schema.js133987286912204515 0
 148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\sourcemap.js133987286912663282 0
 145C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\stream.js133987286912992403 0
-87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9f367d21.css133987325654932794 0
+87C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9f367d21.css133987337061107482 0
 143C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\svgo.js133987286913141998 0
 148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\TapStream.js133987286913271652 0
 147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\@parcel\utils\src\throttle.js133987286913421255 0
@@ -20913,11 +20978,13 @@
 145C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\DefaultMap.test.js133987286896313464 0
 145C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\objectHash.test.js133987286909681258 0
 143C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\throttle.test.js133987286913570852 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\97133987338224597655 1
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-js\node_modules\semver\ranges\min-satisfying.js133987286900941100 0
 152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\input\sourcemap\inline.js133987286908943234 0
 160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js133987286911466485 0
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\schema.js133987286912214490 0
 164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133987286916233735 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about-mob.fba34260.png133987338224118938 0
 157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\input\sourcemap\source-root.js133987286912553581 0
 161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\test\input\sourcemap\source-root.js.map133987286916313530 0
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-syntax-optional-catch-binding\README.md133987286877593525 0
@@ -20953,6 +21020,7 @@
 152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\replaceBundleReferences.js133987286911855449 0
 142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\shared-buffer.js133987286912354117 0
 138C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\sourcemap.js133987286912683228 0
+141C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\info133987327825122659 1
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\stream.js133987286913042266 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\svgo.js133987286913161952 0
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-posthtml\node_modules\@parcel\utils\src\throttle.js133987286913441200 0
@@ -21458,6 +21526,7 @@
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\getRootDir.js133987286900572082 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\glob.js133987286900941100 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\hash.js133987286901350015 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\instagram.5e8bb59b.svg133987338224128906 0
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\http-server.js133987286901728991 0
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\import-map.js133987286902068084 0
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-image\node_modules\@parcel\utils\src\index.js133987286908673949 0
@@ -21738,6 +21807,7 @@
 143C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\@parcel\utils\src\isDirectoryInside.js133987286909242427 0
 142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\@parcel\utils\src\prettyDiagnostic.js133987286910528998 0
 142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\@parcel\utils\src\progress-message.js133987286910997736 0
+143C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\config133987338225196602 0
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\@parcel\utils\src\relativeUrl.js133987286911725790 0
 149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\@parcel\utils\src\replaceBundleReferences.js133987286911855449 0
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-html\node_modules\color-convert\package.json133987286866193998 0
@@ -21758,7 +21828,7 @@
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\node_modules\.bin\semver.ps1133987286937686381 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\lib\babel7.js133987286869973894 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133987286878112130 0
-80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\instagram.76378f5e.svg133987316254343359 0
+80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\instagram.76378f5e.svg133987331131650229 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\lib\config.js133987286888733736 0
 108C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\lib\constants.js133987286890907926 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\transformer-babel\lib\flow.js133987286892463760 0
@@ -21911,6 +21981,7 @@
 132C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\watcher\src\windows\win_utils.hh133987286904701041 0
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\src133987286874511757 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\@parcel133987286839312046 1
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.31b563d9.js133987338224128906 0
 104C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\chalk133987286885213142 1
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\color-convert133987286884804242 1
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-rsc\node_modules\supports-color\browser.js133987286869545042 0
@@ -22110,6 +22181,7 @@
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\chalk\index.d.ts133987286886080828 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\resolver-default\src\DefaultResolver.js133987286874511757 0
 101C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\LICENSE133987286865655438 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\remotes\origin133987338240279262 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\node_modules133987286839252201 1
 106C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\package.json133987286889621364 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\runtime-browser-hmr\src133987286885073518 1
@@ -22663,6 +22735,7 @@
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\generateBuildMetrics.js133987286898417838 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\utils\src\countLines.js133987286894248988 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\getCertificate.js133987286899305466 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\1c\1a1363f2cd0995ada4403b63c8915af736ba15133987338224647518 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\getModuleParts.js133987286900163175 0
 125C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\index.js133987286908663982 0
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\is-url.js133987286909092828 0
@@ -22686,7 +22759,7 @@
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\throttle.js133987286913441200 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\utils\src\urlJoin.js133987286913730426 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\logger\LICENSE133987286866134156 0
-75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home.2b107eef.png133987316254612630 0
+75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home.2b107eef.png133987331131660197 0
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\logger\package.json133987286883068886 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\logger\test133987286878311611 1
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-js\node_modules\@parcel\logger\test\Logger.test.js133987286880804937 0
@@ -22842,7 +22915,7 @@
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\schema.js133987286912214490 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\shared-buffer.js133987286912364087 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\stream.js133987286913042266 0
-86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services-mob@2x.3bc262be.png133987316254612630 0
+86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services-mob@2x.3bc262be.png133987331131660197 0
 130C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\TapStream.js133987286913321525 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\throttle.js133987286913451177 0
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\packager-css\node_modules\@parcel\utils\src\urlJoin.js133987286913730426 0
@@ -23090,6 +23163,7 @@
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\src\svgo.js133987286913261680 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\src\TapStream.js133987286913421255 0
 132C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\src\throttle.js133987286913511018 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\info\exclude133987327825122659 0
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\src\urlJoin.js133987286913810221 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\lib\index.js133987286908494431 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\utils\lib\index.js.map133987286916213795 0
@@ -23097,6 +23171,7 @@
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-proposal-unicode-property-regex\lib\index.js133987286874033040 0
 122C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\logger\test133987286878321574 1
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\logger\test\Logger.test.js133987286880834854 0
+141C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs133987327871214819 1
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\logger\src\Logger.js133987286874741149 0
 124C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\fs\index.d.ts133987286897909209 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\package-manager\node_modules\@parcel\fs\LICENSE133987286866164073 0
@@ -23248,6 +23323,7 @@
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-svg\node_modules\@parcel\utils\src\hash.js133987286901379919 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-svg\node_modules\@parcel\utils\src\http-server.js133987286901738965 0
 132C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-svg\node_modules\@parcel\utils\src\import-map.js133987286902078054 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\7d133987327851328658 1
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-css\node_modules\@parcel\utils\src\parseCSSImport.js133987286909980454 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-svg\node_modules\@parcel\utils\src\index.js133987286908673949 0
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-svg\node_modules\@parcel\utils\src\is-url.js133987286909112779 0
@@ -23304,6 +23380,7 @@
 157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133987286900272891 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\builders\flow\createTypeAnnotationBasedOnTypeof.js133987286891705790 0
 160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133987286901080726 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home-mob@2x.1ed000b4.png133987338224158825 0
 164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133987286903693745 0
 133C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\src\backend.js133987286874751123 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\optimizer-image\node_modules\@parcel\workers\src\bus.js133987286882051606 0
@@ -23662,6 +23739,7 @@
 150C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\src\threads\ThreadsWorker.js133987286904820725 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\lib\child.js133987286884465145 0
 148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\lib\core-worker.browser.js133987286892204452 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\bg-mob@2x.07bf9482.png133987338224198717 0
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\lib\core-worker.js133987286893650591 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\lib\index.js133987286898657202 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\workers\lib\types.js133987286906340187 0
@@ -23756,6 +23834,7 @@
 135C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\fs\lib\browser.js.map133987286895236348 0
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\@parcel\fs\lib\types.d.ts133987286898228354 0
 117C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133987286937606593 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\b3\105298ba30b9d55abd47eaefdeaa9e20c268c9133987338224837556 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver.ps1133987286937606593 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\lib\index.js133987286881263704 0
 107C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\node-resolver-core\lib\Wrapper.js133987286884305570 0
@@ -23783,6 +23862,7 @@
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\markdown-ansi\node_modules\chalk\source\templates.js133987286874322263 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\markdown-ansi\node_modules\ansi-styles\index.js133987286869744511 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\logger\package.json133987286865675382 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.9a82c3cd.js133987338224128906 0
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\logger\test133987286896842061 1
 95C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\logger\yarn-error.log133987286889392029 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\logger\test\.eslintrc.json133987286895186479 0
@@ -24107,6 +24187,7 @@
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\helper-remap-async-to-generator\LICENSE133987286865755167 0
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\workers\lib\child.js133987286884465145 0
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\workers\lib\core-worker.js133987286893650591 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\0b\e66c69396dd65673ecf8bf21926308cf903229133987327850910742 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-syntax-async-generators\README.md133987286877643383 0
 121C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\workers\lib\Handle.js133987286897629952 0
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\workers\lib\index.js133987286898657202 0
@@ -24162,6 +24243,7 @@
 126C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\sourcemap133987286916383334 1
 136C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\sourcemap\inline.js133987286908963179 0
 142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\sourcemap\no-sourcemap.js133987286909431922 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\heads\gh-pages133987338226024384 0
 148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133987286916293583 0
 131C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\config\.testrc133987286867969254 0
 134C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\core\node_modules\@parcel\utils\test\input\config\config.cjs133987286875758422 0
@@ -24270,6 +24352,7 @@
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\modifications133987286912613419 1
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\codeframe\node_modules\color-convert\README.md133987286883647334 0
 113C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\codeframe\node_modules\chalk\index.d.ts133987286886110753 0
+144C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects133987338226193935 1
 99C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@iarna\toml\parse-pretty-error.js133987286886659284 0
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\codeframe\node_modules\chalk\readme.md133987286884066214 0
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\codeframe\node_modules\chalk\source\index.js133987286870193300 0
@@ -24306,9 +24389,10 @@
 128C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\node-addon-api\package-support.json133987286897360665 0
 117C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\node-addon-api\README.md133987286898816780 0
 127C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\node-addon-api\tools\check-napi.js133987286894139277 0
-82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services@2x.bc409e51.png133987316255613609 0
+82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services@2x.bc409e51.png133987331132776779 0
 129C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\node-addon-api\tools\clang-format.js133987286894817467 0
 123C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\node-addon-api\tools\README.md133987286899355343 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\linkedin.a6e00c45.svg133987338224128906 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-proposal-optional-catch-binding133987286876426642 1
 112C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\micromatch\index.js133987286870193300 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@parcel\cache\node_modules\micromatch\package.json133987286874332238 0
@@ -24659,6 +24743,7 @@
 110C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\scripts\generators\ast-types.js133987286915824828 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\scripts\generators\docs.js133987286916014320 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\scripts\generators\flow.js133987286916074165 0
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\logo.7913baa5.svg133987338224128906 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\scripts\generators\validators.js133987286916253688 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\comments133987286902297467 1
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\converters133987286907457223 1
@@ -24714,6 +24799,7 @@
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\types\lib\asserts\generated133987286880475811 1
 85C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\traverse\lib133987286903304785 1
 89C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\traverse\LICENSE133987286865695325 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\3f133987338224724425 1
 94C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\traverse\package.json133987286903643867 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\traverse\README.md133987286868577631 0
 100C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\traverse\scripts\generators133987286904322062 1
@@ -24856,7 +24942,9 @@
 118C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-syntax-object-rest-spread\lib\index.js133987286870003810 0
 137C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-modules\lib\plugins\transform-edge-function-name\index.js133987286885083495 0
 140C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-modules\lib\plugins\transform-async-arrows-in-class\index.js133987286875409355 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\97\d390998765d08dccdee60254bef76e3a873d57133987338224557758 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-env\package.json133987286900442426 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\6b\5a94c7643e14767b254ec2af4b7d98f577eb36133987338224857637 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-env\lib\debug.js133987286893750316 0
 103C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-env\lib\filter-items.js133987286894358690 0
 98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\preset-env\lib\options.js133987286897699767 0
@@ -24910,6 +24998,7 @@
 119C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-commonjs\package.json133987286877583545 0
 116C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-commonjs\README.md133987286868587604 0
 105C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-amd\lib133987286872487173 1
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\text-mob.49cd2ef4.svg133987338224138877 0
 111C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-amd\README.md133987286868587604 0
 114C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-modules-amd\lib\index.js133987286874003121 0
 120C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\plugin-transform-member-expression-literals\lib133987286872497147 1
@@ -25220,6 +25309,78 @@
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\code-frame\LICENSE133987286865775118 0
 96C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\code-frame\package.json133987286877653365 0
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\@babel\code-frame\README.md133987286869245839 0
+157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about-mob@2x.67567748.png133987338224118938 0
+150C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about.1fb16a69.png133987338224118938 0
+150C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about.227a5285.png133987338224118938 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\about@2x.4affdb45.png133987338224158825 0
+151C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\bg-mob.2952e117.png133987338224158825 0
+151C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\bg-mob.35f885e4.png133987338224178771 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\facebook.80e0f41b.svg133987338224118938 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\facebook.f2854abc.svg133987338224118938 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home-mob.bc6a634e.png133987338224128906 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home-mob.c8ac336d.png133987338224128906 0
+152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home@2x.a2f19d40.png133987338224188749 0
+152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\home@2x.ab61437d.png133987338224168799 0
+142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\index.html133987338224128906 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\instagram.76378f5e.svg133987338224128906 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\linkedin.b1d8311f.svg133987338224128906 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\logo-mob.61290ab2.svg133987338224128906 0
+164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.31b563d9.js.map133987338224138877 0
+165C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.99806474.css.map133987338224128906 0
+164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.9a82c3cd.js.map133987338224138877 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.9f367d21.css133987338224138877 0
+165C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.9f367d21.css.map133987338224138877 0
+164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\parsel-test-task.ec78d767.js.map133987338224138877 0
+157C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services-mob.f8fb5883.png133987338224138877 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services-mob@2x.3bc262be.png133987338224168799 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services-mob@2x.49390ea1.png133987338224138877 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services.46492c7d.png133987338224138877 0
+153C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services.510f3647.png133987338224138877 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services@2x.bbc1572a.png133987338224178771 0
+156C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\services@2x.bc409e51.png133987338224188749 0
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\text-desk.6befb9da.svg133987338224138877 0
+151C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\COMMIT_EDITMSG133987338225954576 0
+148C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\description133987327825052846 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\FETCH_HEAD133987338222164412 0
+142C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks133987327825112681 1
+146C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\ORIG_HEAD133987338223680370 0
+144C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\shallow133987327833205262 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\heads133987338226024384 1
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\remotes133987327871214819 1
+146C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\tags133987327825122659 1
+165C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\refs\remotes\origin\gh-pages133987338240259313 0
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\0b133987327850970579 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\25133987327851172309 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\36133987338224637552 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\47133987338224774342 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\6b133987327851798500 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\7e133987338225924651 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\86133987327852872248 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\87133987338224819509 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\8a133987327851657771 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\d6133987327851388387 1
+147C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\f1133987327851847861 1
+149C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\pack133987327841684642 1
+199C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\pack\pack-d9ee0d45f27058d29be42d0ec829da1cff9e7ca1.idx133987327841216296 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\ae\e13f41c19108e18519594a735adbf0f96b43d3133987338224847539 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\a2\66c6361b9d2d625449a0483976c7920fd4bc61133987338224837556 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\93\f84c7df7eb9dcf04f0d9aea437041c72093fb6133987327851248677 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\8a\5dcb864b410b303a03f2c244e90beecc93a410133987338224847539 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\88\e0beeddb96421c8843f47fb36bae55f1cc697d133987327850990525 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\3f\7930fc3b6945d1b4632302d76b1a3ad7192ec4133987338224687419 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\25\04d424959e977d5f73df5240b37057cf6db6ad133987338224734451 0
+186C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\objects\06\913ec21d4b2a75c894ff837550326a4740be9b133987327851192027 0
+146C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\HEAD133987338226024384 0
+152C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs\heads133987327841654721 1
+154C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs\remotes133987327871234761 1
+82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\detect-libc133987286937656463 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs\remotes\origin133987327871234761 1
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\logs\refs\heads\gh-pages133987338226024384 0
+164C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-applypatch.sample133987327825082760 0
+160C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-commit.sample133987327825082760 0
+161C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\pre-receive.sample133987327825092742 0
+166C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\push-to-checkout.sample133987327825102708 0
+168C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.cache\gh-pages\https!github.com!APilganchuk!parsel-test-task.git\.git\hooks\sendemail-validate.sample133987327825112681 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\acorn.ps1133987286937656463 0
 75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\brfs133987286937656463 0
 83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\ansi-to-html133987286937656463 0
@@ -25229,7 +25390,6 @@
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\cssesc133987286937656463 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\cssesc.cmd133987286937656463 0
 81C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\cssesc.ps1133987286937656463 0
-82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\detect-libc133987286937656463 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\detect-libc.cmd133987286937656463 0
 98C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\download-lmdb-prebuilds.ps1133987286937666430 0
 102C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\download-msgpackr-prebuilds.ps1133987286937666430 0
@@ -25285,28 +25445,28 @@
 93C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\update-browserslist-db133987286937676403 0
 97C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\update-browserslist-db.cmd133987286937676403 0
 75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\node_modules\.bin\uuid133987286937676403 0
-80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about-mob.7ba53401.png133987316254343359 0
-76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about.227a5285.png133987316254622608 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about@2x.4affdb45.png133987316255583688 0
+80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about-mob.7ba53401.png133987331131650229 0
+76C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about.227a5285.png133987331131650229 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about@2x.4affdb45.png133987331131670169 0
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\about@2x.e421f0b6.png133987327814900886 0
 77C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob.2952e117.png133987327814900886 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\bg-mob@2x.8c6fdd1d.png133987327819825959 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\facebook.f2854abc.svg133987316255083152 0
-82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home-mob@2x.1ed000b4.png133987316255483969 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\facebook.f2854abc.svg133987331131650229 0
+82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home-mob@2x.1ed000b4.png133987331131660197 0
 82C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home-mob@2x.97a1689d.png133987327801954897 0
 75C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\home.1c779420.png133987327800149727 0
-68C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\index.html133987327819825959 0
+68C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\index.html133987339084463426 0
 80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\instagram.5e8bb59b.svg133987327819825959 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\logo-mob.61290ab2.svg133987316255093129 0
-86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.31b563d9.js133987326170616347 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\logo-mob.61290ab2.svg133987331131650229 0
+86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.31b563d9.js133987331131660197 0
 86C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9a82c3cd.js133987327819825959 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9a82c3cd.js.map133987327819875843 0
-91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9f367d21.css.map133987325654952734 0
+91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.9f367d21.css.map133987337061117458 0
 91C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.c9e92716.css.map133987327819885802 0
 90C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\parsel-test-task.ec78d767.js.map133987327819885802 0
-83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services-mob.f8fb5883.png133987316254343359 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services.46492c7d.png133987316255083152 0
+83C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services-mob.f8fb5883.png133987331131650229 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services.46492c7d.png133987331131650229 0
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\services.510f3647.png133987327800149727 0
-80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\text-desk.cfc9e9f3.svg133987316254343359 0
-79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\text-mob.0cdb4423.svg133987316254343359 0
+80C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\text-desk.cfc9e9f3.svg133987331131650229 0
+79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\text-mob.0cdb4423.svg133987331131650229 0
 79C:\Users\Aleksandr\Documents\GitHub\parsel-test-task\dist\text-mob.49cd2ef4.svg133987327801954897 0
