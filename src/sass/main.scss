@@ -1,10 +1,11 @@
-@import './utils/modern-normalize';
-@import './utils/mixins';
-@import './utils/variables';
-@import './base/base';
-@import './components/header';
-@import './components/home';
-@import './components/about';
-@import './components/services';
-@import './components/animation';
-@import './components/footer';
+@use './utils/modern-normalize' as *;
+@use './utils/mixins' as *;
+@use './utils/variables' as *;
+@use './base/base' as *;
+
+@use './components/header' as *;
+@use './components/home' as *;
+@use './components/about' as *;
+@use './components/services' as *;
+@use './components/animation' as *;
+@use './components/footer' as *;

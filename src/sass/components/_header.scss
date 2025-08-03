@@ -1,3 +1,6 @@
+@use '../utils/variables' as *;
+@use '../utils/mixins' as *;
+
 .header {
   height: 88px;
   position: relative;

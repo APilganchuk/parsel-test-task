@@ -1,3 +1,6 @@
+@use '../utils/variables' as *;
+@use '../utils/mixins' as *;
+
 .animation {
   overflow: hidden;
   height: 135px;
