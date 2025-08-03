@@ -1,25 +1,25 @@
-<!DOCTYPE html><html lang=en><link rel=stylesheet href=/parsel-test-task/parsel-test-task.536dba31.css><meta charset=UTF-8><meta name=viewport content="width=device-width, initial-scale=1.0"><title>test task</title><link <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;family=Exo:wght@400;600;700&amp;family=Poppins:wght@400;600;700&amp;display=swap" rel=stylesheet><body>
+<!DOCTYPE html><html lang=en><link rel=stylesheet href=/parsel-test-task/parsel-test-task.a83a5869.css><meta charset=UTF-8><meta name=viewport content="width=device-width, initial-scale=1.0"><title>test task</title><meta name=title content="Lorem ipsum dolor sit amet consectetur. Mi cras non non quis."><meta name=description content="Lorem ipsum dolor sit amet consectetur. Faucibus nunc et mattis at feugiat sagittis volutpat."><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;family=Exo:wght@400;600;700&amp;family=Poppins:wght@400;600;700&amp;display=swap" rel=stylesheet><body>
   <header class=header>
 
   <nav class="container header__container">
     <picture class=header__logo>
       <source media="(min-width: 768px)" srcset=/parsel-test-task/logo.7913baa5.svg>
-      <img src=/parsel-test-task/logo-mob.f902ff67.svg alt=Logo>
+      <img src=/parsel-test-task/logo-mob.f902ff67.svg alt=logo>
     </picture>
     <ul class=header__nav>
-      <li class="header__nav-item header__nav-item--active">Home</li>
-      <li class=header__nav-item>About us</li>
-      <li class=header__nav-item>Services</li>
+      <li class="header__nav-item header__nav-item--active js-tab" data-tab-name=home aria-selected=true>Home</li>
+      <li class="header__nav-item js-tab" data-tab-name=about aria-selected=false>About us</li>
+      <li class="header__nav-item js-tab" data-tab-name=services aria-selected=false>Services</li>
     </ul>
     <button type=button class=header__btn>Sign Up</button>
   </nav>
 </header>
 
-<main>
-  <section class="container home">
+<main class=main>
+  <section class="active container home js-tab-item" data-tab-name=home>
     <picture>
       <source media="(min-width: 768px)" srcset="/parsel-test-task/home.1c779420.png 1x,/parsel-test-task/home@2x.ab61437d.png 2x">
-      <img class=home__img src=/parsel-test-task/home-mob.bc6a634e.png srcset="/parsel-test-task/home-mob@2x.97a1689d.png 2x" alt="hero image">
+      <img class=home__img src=/parsel-test-task/home-mob.bc6a634e.png srcset="/parsel-test-task/home-mob@2x.97a1689d.png 2x" alt="hero image" loading=lazy width=462 height=461>
     </picture>
 
     <div class=home__content>
@@ -31,6 +31,40 @@
         a non
         mollis.Sed
         ut arcu enim ullamcorper.
+      </p>
+    </div>
+  </section>
+  <section class="about container js-tab-item" data-tab-name=about>
+    <picture>
+      <source media="(min-width: 768px)" srcset="/parsel-test-task/about.1fb16a69.png 1x,/parsel-test-task/about@2x.e421f0b6.png 2x">
+      <img class=about__img src=/parsel-test-task/about-mob.fba34260.png srcset="/parsel-test-task/about-mob@2x.67567748.png 2x" alt="hero image" loading=lazy width=462 height=461>
+    </picture>
+
+    <div class=about__content>
+      <h1 class="about__title about__title--underline">About us</h1>
+      <p class=about__description>
+        Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
+        sagittis nunc
+        mi non egestas est. Aliquam maecenas in sed vestibulum neque feugiat pulvinar. Volutpat auctor a in sem
+        vulputate
+        aliquam tempor sit. Nulla urna felis penatibus ut cras sit.
+      </p>
+    </div>
+  </section>
+  <section class="container js-tab-item services" data-tab-name=services>
+    <picture>
+      <source media="(min-width: 768px)" srcset="/parsel-test-task/services.510f3647.png 1x,/parsel-test-task/services@2x.bbc1572a.png 2x">
+      <img class=services__img src=/parsel-test-task/services.510f3647.png srcset="/parsel-test-task/services@2x.bbc1572a.png 2x" alt="hero image" loading=lazy width=462 height=461>
+    </picture>
+
+    <div class=services__content>
+      <h1 class="services__title services__title--underline">Services</h1>
+      <p class=services__description>
+        Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
+        sagittis nunc
+        mi non egestas est. Aliquam maecenas in sed vestibulum neque feugiat pulvinar. Volutpat auctor a in sem
+        vulputate
+        aliquam tempor sit. Nulla urna felis penatibus ut cras sit.
       </p>
     </div>
   </section>
@@ -127,6 +161,6 @@
   </nav>
 </footer>
 
-  <script type=module src=/parsel-test-task/parsel-test-task.062dfbcb.js></script>
+  <script type=module src=/parsel-test-task/parsel-test-task.e80518b0.js></script>
 
 

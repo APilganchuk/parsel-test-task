@@ -671,6 +671,73 @@ var _mainScss = require("./sass/main.scss");
 var _main = require("./js/main");
 
 },{"./sass/main.scss":"dFl68","./js/main":"lhpGb"}],"dFl68":[function() {},{}],"lhpGb":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+var _features = require("./features");
+var _featuresDefault = parcelHelpers.interopDefault(_features);
+document.addEventListener('DOMContentLoaded', ()=>{
+    new (0, _featuresDefault.default)('.js-tab', '.js-tab-item', 'header__nav-item--active');
+});
+
+},{"./features":"9FLLs","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9FLLs":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
+parcelHelpers.defineInteropFlag(exports);
+class Tabs {
+    constructor(tabSelector, paneSelector, activeClass){
+        this.tabs = document.querySelectorAll(tabSelector);
+        this.panes = document.querySelectorAll(paneSelector);
+        this.activeClass = activeClass;
+        this.init();
+    }
+    init() {
+        this.tabs.forEach((tab)=>{
+            tab.addEventListener('click', ()=>this.onTabClick(tab));
+        });
+    }
+    onTabClick(activeTab) {
+        const { tabName } = activeTab.dataset;
+        this.tabs.forEach((tab)=>{
+            tab.classList.remove(this.activeClass);
+            tab.setAttribute('aria-selected', 'false');
+        });
+        activeTab.classList.add(this.activeClass);
+        activeTab.setAttribute('aria-selected', 'true');
+        this.panes.forEach((pane)=>{
+            if (pane.dataset.tabName === tabName) pane.classList.add('active');
+            else pane.classList.remove('active');
+        });
+    }
+}
+exports.default = Tabs;
+
+},{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jnFvT":[function(require,module,exports,__globalThis) {
+exports.interopDefault = function(a) {
+    return a && a.__esModule ? a : {
+        default: a
+    };
+};
+exports.defineInteropFlag = function(a) {
+    Object.defineProperty(a, '__esModule', {
+        value: true
+    });
+};
+exports.exportAll = function(source, dest) {
+    Object.keys(source).forEach(function(key) {
+        if (key === 'default' || key === '__esModule' || Object.prototype.hasOwnProperty.call(dest, key)) return;
+        Object.defineProperty(dest, key, {
+            enumerable: true,
+            get: function() {
+                return source[key];
+            }
+        });
+    });
+    return dest;
+};
+exports.export = function(dest, destName, get) {
+    Object.defineProperty(dest, destName, {
+        enumerable: true,
+        get: get
+    });
+};
 
 },{}]},["5j6Kf","a0t4e"], "a0t4e", "parcelRequirebd51", {})
 
