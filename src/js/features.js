@@ -31,5 +31,14 @@ export default class Tabs {
         pane.classList.remove('active');
       }
     });
+
+    const allTitles = document.querySelectorAll('.js-title');
+    allTitles.forEach(title => {
+      if (title.dataset.tabName === tabName) {
+        title.classList.add('active');
+      } else {
+        title.classList.remove('active');
+      }
+    });
   }
 }

@@ -61,16 +61,25 @@
       &::after {
         content: '';
         position: absolute;
+        opacity: 0;
         left: -2px;
         bottom: 4px;
         z-index: -1;
-        width: 106%;
+        width: 0;
         height: 10px;
         background-color: $accent-color;
         border-radius: 10px;
 
         @include desktop {
           bottom: 10px;
+        }
+      }
+
+      &.active {
+        &::after {
+          transition: all 2s $timing-function;
+          opacity: 1;
+          width: 106%;
         }
       }
     }

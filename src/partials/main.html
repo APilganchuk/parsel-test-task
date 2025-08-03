@@ -6,9 +6,10 @@
       <img src="./images/svg/logo-mob.svg" alt="logo" />
     </picture>
     <ul class="header__nav">
-      <li class="js-tab header__nav-item header__nav-item--active" data-tab-name="home" aria-selected="true">Home</li>
-      <li class="js-tab header__nav-item" data-tab-name="about" aria-selected="false">About us</li>
-      <li class="js-tab header__nav-item" data-tab-name="services" aria-selected="false">Services</li>
+      <li class="js-tab header__nav-item header__nav-item--active" role="tab" data-tab-name="home" aria-selected="true">
+        Home</li>
+      <li class="js-tab header__nav-item" data-tab-name="about" role="tab" aria-selected="false">About us</li>
+      <li class="js-tab header__nav-item" data-tab-name="services" role="tab" aria-selected="false">Services</li>
     </ul>
     <button type="button" class="header__btn">Sign Up</button>
   </nav>
@@ -22,11 +23,12 @@
           ./images/png/home@2x.png 2x
         " />
       <img class="home__img" src="./images/png/home-mob.png" srcset="./images/png/home-mob@2x.png 2x" alt="hero image"
-        loading="lazy" width="462" height="461" />
+        loading="lazy" />
     </picture>
 
     <div class="home__content">
-      <h1 class="home__title">Lorem ipsum dolor sit amet consectetur. Mi cras <span class="home__title--underline">non
+      <h1 class="home__title">Lorem ipsum dolor sit amet consectetur. Mi cras <span
+          class="home__title--underline active js-title " data-tab-name="home">non
           non quis</span>.</h1>
       <p class="home__description">
         Lorem ipsum dolor sit amet consectetur. Faucibus nunc et mattis at feugiat sagittis volutpat. At netus diam
@@ -44,11 +46,11 @@
             ./images/png/about@2x.png 2x
           " />
       <img class="about__img" src="./images/png/about-mob.png" srcset="./images/png/about-mob@2x.png 2x"
-        alt="hero image" loading="lazy" width="462" height="461" />
+        alt="hero image" loading="lazy" />
     </picture>
 
     <div class="about__content">
-      <h1 class="about__title about__title--underline">About us</h1>
+      <h1 class="about__title about__title--underline js-title" data-tab-name="about">About us</h1>
       <p class="about__description">
         Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
         sagittis nunc
@@ -64,12 +66,12 @@
                 ./images/png/services.png 1x,
                 ./images/png/services@2x.png 2x
               " />
-      <img class="services__img" src="./images/png/services.png" srcset="./images/png/services@2x.png 2x"
-        alt="hero image" loading="lazy" width="462" height="461" />
+      <img class="services__img" src="./images/png/services-mob.png" srcset="./images/png/services-mob@2x.png 2x"
+        alt="hero image" loading="lazy" />
     </picture>
 
     <div class="services__content">
-      <h1 class="services__title services__title--underline">Services</h1>
+      <h1 class="services__title services__title--underline js-title" data-tab-name="services">Services</h1>
       <p class="services__description">
         Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
         sagittis nunc
@@ -81,6 +83,7 @@
   </section>
   <section class="animation">
     <div class="animation__container">
+      <h3 class="animation__title">Animation</h3>
       <div class="animation__track">
         <div class="animation__item">We buy traffic</div>
         <div class="animation__item animation__item--decor"></div>
