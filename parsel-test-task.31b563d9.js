@@ -705,6 +705,11 @@ class Tabs {
             if (pane.dataset.tabName === tabName) pane.classList.add('active');
             else pane.classList.remove('active');
         });
+        const allTitles = document.querySelectorAll('.js-title');
+        allTitles.forEach((title)=>{
+            if (title.dataset.tabName === tabName) title.classList.add('active');
+            else title.classList.remove('active');
+        });
     }
 }
 exports.default = Tabs;
