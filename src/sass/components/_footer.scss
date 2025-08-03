@@ -1,6 +1,11 @@
 .footer {
   margin-top: 64px;
   margin-bottom: 32px;
+
+  @include tablet {
+    margin-bottom: 64px;
+  }
+
   &__container {
     display: flex;
     flex-direction: column;
@@ -14,6 +19,13 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
+
+    @include tablet {
+      flex-direction: row;
+      justify-content: space-between;
+      width: 528px;
+      max-width: 100%;
+    }
   }
   &__nav-item {
     height: 48px;
@@ -25,6 +37,10 @@
     text-transform: capitalize;
     text-align: center;
     color: $primary-text-color;
+
+    @include tablet {
+      height: 24px;
+    }
   }
   &__social-nav {
     display: flex;
@@ -52,6 +68,14 @@
     text-align: center;
     color: $primary-text-color;
     margin: 0px auto 8px;
+
+    @include tablet {
+      margin-bottom: 10px;
+    }
+
+    @include desktop {
+      margin-bottom: 12px;
+    }
   }
   &__contact-link {
     font-weight: 400;

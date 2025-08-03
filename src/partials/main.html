@@ -3,26 +3,26 @@
   <nav class="container header__container">
     <picture class="header__logo">
       <source media="(min-width: 768px)" srcset="./images/svg/logo.svg" />
-      <img src="./images/svg/logo-mob.svg" alt="Logo" />
+      <img src="./images/svg/logo-mob.svg" alt="logo" />
     </picture>
     <ul class="header__nav">
-      <li class="header__nav-item header__nav-item--active">Home</li>
-      <li class="header__nav-item">About us</li>
-      <li class="header__nav-item">Services</li>
+      <li class="js-tab header__nav-item header__nav-item--active" data-tab-name="home" aria-selected="true">Home</li>
+      <li class="js-tab header__nav-item" data-tab-name="about" aria-selected="false">About us</li>
+      <li class="js-tab header__nav-item" data-tab-name="services" aria-selected="false">Services</li>
     </ul>
     <button type="button" class="header__btn">Sign Up</button>
   </nav>
 </header>
 
-<main>
-  <section class="home container">
+<main class="main">
+  <section class="js-tab-item active home container" data-tab-name="home">
     <picture>
       <source media="(min-width: 768px)" srcset="
           ./images/png/home.png 1x,
           ./images/png/home@2x.png 2x
         " />
-      <img class="home__img" src="./images/png/home-mob.png" srcset="./images/png/home-mob@2x.png 2x"
-        alt="hero image" />
+      <img class="home__img" src="./images/png/home-mob.png" srcset="./images/png/home-mob@2x.png 2x" alt="hero image"
+        loading="lazy" width="462" height="461" />
     </picture>
 
     <div class="home__content">
@@ -34,6 +34,48 @@
         a non
         mollis.Sed
         ut arcu enim ullamcorper.
+      </p>
+    </div>
+  </section>
+  <section class="js-tab-item about container" data-tab-name="about">
+    <picture>
+      <source media="(min-width: 768px)" srcset="
+            ./images/png/about.png 1x,
+            ./images/png/about@2x.png 2x
+          " />
+      <img class="about__img" src="./images/png/about-mob.png" srcset="./images/png/about-mob@2x.png 2x"
+        alt="hero image" loading="lazy" width="462" height="461" />
+    </picture>
+
+    <div class="about__content">
+      <h1 class="about__title about__title--underline">About us</h1>
+      <p class="about__description">
+        Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
+        sagittis nunc
+        mi non egestas est. Aliquam maecenas in sed vestibulum neque feugiat pulvinar. Volutpat auctor a in sem
+        vulputate
+        aliquam tempor sit. Nulla urna felis penatibus ut cras sit.
+      </p>
+    </div>
+  </section>
+  <section class="js-tab-item services container" data-tab-name="services">
+    <picture>
+      <source media="(min-width: 768px)" srcset="
+                ./images/png/services.png 1x,
+                ./images/png/services@2x.png 2x
+              " />
+      <img class="services__img" src="./images/png/services.png" srcset="./images/png/services@2x.png 2x"
+        alt="hero image" loading="lazy" width="462" height="461" />
+    </picture>
+
+    <div class="services__content">
+      <h1 class="services__title services__title--underline">Services</h1>
+      <p class="services__description">
+        Lorem ipsum dolor sit amet consectetur. Vel duis nibh sodales in gravida dolor in. Elementum netus rhoncus
+        sagittis nunc
+        mi non egestas est. Aliquam maecenas in sed vestibulum neque feugiat pulvinar. Volutpat auctor a in sem
+        vulputate
+        aliquam tempor sit. Nulla urna felis penatibus ut cras sit.
       </p>
     </div>
   </section>
