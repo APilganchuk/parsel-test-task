@@ -160,11 +160,11 @@
       });
     }
   }
-})({"6OQ1f":[function(require,module,exports,__globalThis) {
+})({"5j6Kf":[function(require,module,exports,__globalThis) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
-var HMR_SERVER_PORT = 52542;
+var HMR_SERVER_PORT = 1234;
 var HMR_SECURE = false;
 var HMR_ENV_HASH = "439701173a9199ea";
 var HMR_USE_SSE = false;
@@ -671,18 +671,16 @@ var _mainScss = require("./sass/main.scss");
 var _main = require("./js/main");
 
 },{"./sass/main.scss":"dFl68","./js/main":"lhpGb"}],"dFl68":[function() {},{}],"lhpGb":[function(require,module,exports,__globalThis) {
+var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _features = require("./features");
+var _featuresDefault = parcelHelpers.interopDefault(_features);
 document.addEventListener('DOMContentLoaded', ()=>{
-    new (0, _features.Tabs)('.js-tab', '.js-tab-item', 'header__nav-item--active');
-    new (0, _features.InfiniteTrack)('.animation__track');
-    new (0, _features.InfiniteTrack)('.animation__track--second');
+    new (0, _featuresDefault.default)('.js-tab', '.js-tab-item', 'header__nav-item--active');
 });
 
-},{"./features":"9FLLs"}],"9FLLs":[function(require,module,exports,__globalThis) {
+},{"./features":"9FLLs","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9FLLs":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
-parcelHelpers.export(exports, "Tabs", ()=>Tabs);
-parcelHelpers.export(exports, "InfiniteTrack", ()=>InfiniteTrack);
 class Tabs {
     constructor(tabSelector, paneSelector, activeClass){
         this.tabs = document.querySelectorAll(tabSelector);
@@ -714,19 +712,7 @@ class Tabs {
         });
     }
 }
-class InfiniteTrack {
-    constructor(selector, minViewportMultiplier = 4){
-        this.track = document.querySelector(selector);
-        this.minWidth = window.innerWidth * minViewportMultiplier;
-        if (this.track) {
-            this.innerHTML = this.track.innerHTML;
-            this.duplicateUntilFull();
-        }
-    }
-    duplicateUntilFull() {
-        while(this.track.offsetWidth < this.minWidth)this.track.innerHTML += this.innerHTML;
-    }
-}
+exports.default = Tabs;
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jnFvT":[function(require,module,exports,__globalThis) {
 exports.interopDefault = function(a) {
@@ -758,6 +744,6 @@ exports.export = function(dest, destName, get) {
     });
 };
 
-},{}]},["6OQ1f","a0t4e"], "a0t4e", "parcelRequirebd51", {})
+},{}]},["5j6Kf","a0t4e"], "a0t4e", "parcelRequirebd51", {})
 
 //# sourceMappingURL=parsel-test-task.31b563d9.js.map
