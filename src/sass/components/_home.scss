@@ -53,6 +53,13 @@
   }
   &__title {
     font-family: $font-family;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 140%;
+
+    @include desktop {
+      font-size: 44px;
+    }
     margin-top: 0;
     margin-bottom: 24px;
 
