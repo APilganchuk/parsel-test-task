@@ -366,7 +366,6 @@ body {
   width: 100%;
   margin-top: 76px;
   margin-bottom: 24px;
-  transition: opacity 1s cubic-bezier(.4, 0, .2, 1);
   display: flex;
   position: absolute;
   top: 0;
