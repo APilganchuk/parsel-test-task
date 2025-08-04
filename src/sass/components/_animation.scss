@@ -62,6 +62,11 @@
     height: 43px;
     animation: scroll-left 30s linear infinite;
 
+    @include desktop {
+      height: 61px;
+      animation: scroll-left 50s linear infinite;
+    }
+
     &--second {
       background-color: $main-bg-color;
       animation: scroll-right 30s linear infinite;
@@ -69,11 +74,6 @@
       @include desktop {
         animation: scroll-right 50s linear infinite;
       }
-    }
-
-    @include desktop {
-      height: 61px;
-      animation: scroll-left 50s linear infinite;
     }
   }
 
