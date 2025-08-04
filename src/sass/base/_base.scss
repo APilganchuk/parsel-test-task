@@ -11,6 +11,16 @@ body {
   @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
     background-image: url('../images/png/bg-mob@2x.png');
   }
+
+  @include desktop {
+    background-image: url('../images/png/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    @media (min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+      background-image: url('../images/png/bg@2x.png');
+    }
+  }
 }
 
 h1,
