@@ -23,14 +23,6 @@
     position: relative;
   }
 
-  @include desktop {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    margin-top: 66px;
-    margin-bottom: 40px;
-  }
-
   &__img {
     display: block;
     margin-top: 12px;
@@ -57,9 +49,6 @@
     font-size: 28px;
     line-height: 140%;
 
-    @include desktop {
-      font-size: 44px;
-    }
     margin-top: 0;
     margin-bottom: 24px;
 
@@ -95,6 +84,10 @@
         }
       }
     }
+
+    @include desktop {
+      font-size: 44px;
+    }
   }
 
   &__description {
@@ -103,5 +96,13 @@
     font-size: 16px;
     line-height: 150%;
     color: $secondary-text-color;
+  }
+
+  @include desktop {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 66px;
+    margin-bottom: 40px;
   }
 }

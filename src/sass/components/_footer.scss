@@ -5,10 +5,6 @@
   margin-top: 64px;
   margin-bottom: 32px;
 
-  @include tablet {
-    margin-bottom: 64px;
-  }
-
   &__container {
     display: flex;
     flex-direction: column;
@@ -94,5 +90,9 @@
       margin-bottom: 12px;
       font-size: 16px;
     }
+  }
+
+  @include tablet {
+    margin-bottom: 64px;
   }
 }
