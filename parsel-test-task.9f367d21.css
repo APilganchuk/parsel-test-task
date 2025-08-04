@@ -646,6 +646,13 @@ h1, h2 {
   display: flex;
 }
 
+@media (width >= 1024px) {
+  .animation__track {
+    height: 61px;
+    animation: 50s linear infinite scroll-left;
+  }
+}
+
 .animation__track--second {
   background-color: #7f3a6a;
   animation: 30s linear infinite scroll-right;
@@ -654,11 +661,6 @@ h1, h2 {
 @media (width >= 1024px) {
   .animation__track--second {
     animation: 50s linear infinite scroll-right;
-  }
-
-  .animation__track {
-    height: 61px;
-    animation: 50s linear infinite scroll-left;
   }
 }
 
