@@ -4,9 +4,9 @@
   "description": "",
   "homepage": "https://APilganchuk.github.io/parsel-test-task",
   "scripts": {
-  "dev": "parcel src/index.html",
-  "predeploy": "parcel build src/index.html --public-url ./",
-  "deploy": "gh-pages -d dist"
+    "dev": "parcel src/index.html",
+    "predeploy": "parcel build src/index.html --public-url ./",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
