@@ -13,6 +13,17 @@ body {
   }
 }
 
+h1 {
+  font-family: $font-family;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 140%;
+
+  @include desktop {
+    font-size: 44px;
+  }
+}
+
 .main {
   position: relative;
 }

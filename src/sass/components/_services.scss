@@ -51,18 +51,10 @@
     }
   }
   &__title {
-    font-family: $font-family;
     margin-top: 0;
     margin-bottom: 24px;
-    font-weight: 700;
-    font-size: 28px;
-    line-height: 140%;
     text-transform: capitalize;
     color: $primary-text-color;
-
-    @include desktop {
-      font-size: 44px;
-    }
 
     &--underline {
       position: relative;
