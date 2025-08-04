@@ -370,6 +370,7 @@ h1 {
   width: 100%;
   margin-top: 76px;
   margin-bottom: 24px;
+  transition: opacity 1s cubic-bezier(.4, 0, .2, 1);
   display: flex;
   position: absolute;
   top: 0;
@@ -634,19 +635,26 @@ h1 {
   width: max-content;
   min-width: 200%;
   height: 43px;
-  animation: 15s linear infinite scroll-left;
+  animation: 30s linear infinite scroll-left;
   display: flex;
 }
 
 @media (width >= 1024px) {
   .animation__track {
     height: 61px;
+    animation: 50s linear infinite scroll-left;
   }
 }
 
-.animation__track__second {
+.animation__track--second {
   background-color: #7f3a6a;
-  animation: 15s linear infinite scroll-right;
+  animation: 30s linear infinite scroll-right;
+}
+
+@media (width >= 1024px) {
+  .animation__track--second {
+    animation: 50s linear infinite scroll-right;
+  }
 }
 
 .animation__item {

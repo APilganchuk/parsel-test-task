@@ -671,16 +671,18 @@ var _mainScss = require("./sass/main.scss");
 var _main = require("./js/main");
 
 },{"./sass/main.scss":"dFl68","./js/main":"lhpGb"}],"dFl68":[function() {},{}],"lhpGb":[function(require,module,exports,__globalThis) {
-var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _features = require("./features");
-var _featuresDefault = parcelHelpers.interopDefault(_features);
 document.addEventListener('DOMContentLoaded', ()=>{
-    new (0, _featuresDefault.default)('.js-tab', '.js-tab-item', 'header__nav-item--active');
+    new (0, _features.Tabs)('.js-tab', '.js-tab-item', 'header__nav-item--active');
+    new (0, _features.InfiniteTrack)('.animation__track');
+    new (0, _features.InfiniteTrack)('.animation__track--second');
 });
 
-},{"./features":"9FLLs","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"9FLLs":[function(require,module,exports,__globalThis) {
+},{"./features":"9FLLs"}],"9FLLs":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
+parcelHelpers.export(exports, "Tabs", ()=>Tabs);
+parcelHelpers.export(exports, "InfiniteTrack", ()=>InfiniteTrack);
 class Tabs {
     constructor(tabSelector, paneSelector, activeClass){
         this.tabs = document.querySelectorAll(tabSelector);
@@ -712,7 +714,19 @@ class Tabs {
         });
     }
 }
-exports.default = Tabs;
+class InfiniteTrack {
+    constructor(selector, minViewportMultiplier = 4){
+        this.track = document.querySelector(selector);
+        this.minWidth = window.innerWidth * minViewportMultiplier;
+        if (this.track) {
+            this.innerHTML = this.track.innerHTML;
+            this.duplicateUntilFull();
+        }
+    }
+    duplicateUntilFull() {
+        while(this.track.offsetWidth < this.minWidth)this.track.innerHTML += this.innerHTML;
+    }
+}
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"jnFvT":[function(require,module,exports,__globalThis) {
 exports.interopDefault = function(a) {
