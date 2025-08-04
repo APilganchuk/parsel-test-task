@@ -138,6 +138,19 @@ body {
   }
 }
 
+h1 {
+  font-family: Exo, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 140%;
+}
+
+@media (width >= 1024px) {
+  h1 {
+    font-size: 44px;
+  }
+}
+
 .main {
   position: relative;
 }
@@ -308,15 +321,6 @@ body {
   margin-top: 0;
   margin-bottom: 24px;
   font-family: Exo, sans-serif;
-  font-size: 28px;
-  font-weight: 700;
-  line-height: 140%;
-}
-
-@media (width >= 1024px) {
-  .home__title {
-    font-size: 44px;
-  }
 }
 
 .home__title--underline {
@@ -416,16 +420,6 @@ body {
   color: #313131;
   margin-top: 0;
   margin-bottom: 24px;
-  font-family: Exo, sans-serif;
-  font-size: 28px;
-  font-weight: 700;
-  line-height: 140%;
-}
-
-@media (width >= 1024px) {
-  .about__title {
-    font-size: 44px;
-  }
 }
 
 .about__title--underline {
@@ -526,16 +520,6 @@ body {
   color: #313131;
   margin-top: 0;
   margin-bottom: 24px;
-  font-family: Exo, sans-serif;
-  font-size: 28px;
-  font-weight: 700;
-  line-height: 140%;
-}
-
-@media (width >= 1024px) {
-  .services__title {
-    font-size: 44px;
-  }
 }
 
 .services__title--underline {
