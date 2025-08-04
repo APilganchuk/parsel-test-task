@@ -60,15 +60,20 @@
     width: max-content;
     min-width: 200%;
     height: 43px;
-    animation: scroll-left 15s linear infinite;
+    animation: scroll-left 30s linear infinite;
 
     @include desktop {
       height: 61px;
+      animation: scroll-left 50s linear infinite;
     }
 
-    &__second {
+    &--second {
       background-color: $main-bg-color;
-      animation: scroll-right 15s linear infinite;
+      animation: scroll-right 30s linear infinite;
+
+      @include desktop {
+        animation: scroll-right 50s linear infinite;
+      }
     }
   }
 

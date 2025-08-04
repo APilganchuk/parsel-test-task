@@ -1,4 +1,4 @@
-export default class Tabs {
+export class Tabs {
   constructor(tabSelector, paneSelector, activeClass) {
     this.tabs = document.querySelectorAll(tabSelector);
     this.panes = document.querySelectorAll(paneSelector);
@@ -40,5 +40,23 @@ export default class Tabs {
         title.classList.remove('active');
       }
     });
+  }
+}
+
+export class InfiniteTrack {
+  constructor(selector, minViewportMultiplier = 4) {
+    this.track = document.querySelector(selector);
+    this.minWidth = window.innerWidth * minViewportMultiplier;
+
+    if (this.track) {
+      this.innerHTML = this.track.innerHTML;
+      this.duplicateUntilFull();
+    }
+  }
+
+  duplicateUntilFull() {
+    while (this.track.offsetWidth < this.minWidth) {
+      this.track.innerHTML += this.innerHTML;
+    }
   }
 }
