@@ -46,7 +46,7 @@
   &__title {
     font-family: $font-family;
     font-weight: 700;
-    font-size: 28px;
+    font-size: 28px !important;
     line-height: 140%;
 
     margin-top: 0;
@@ -86,7 +86,7 @@
     }
 
     @include desktop {
-      font-size: 44px;
+      font-size: 44px !important;
     }
   }
 
